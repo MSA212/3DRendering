@@ -66,12 +66,3 @@ Accumulated performance reports
 
 Debug visualization utilities using Matplotlib
 
-.
-├── Camera.py              # Camera movement, orientation, and projection
-├── renderable_object.py   # Mesh representation and OBJ loading
-├── texture.py             # Texture loading and UV sampling
-├── profiler.py            # Lightweight profiling utilities
-├── debug.py               # Debug visualization helpers
-├── transform.py           # General-purpose 3D transform system
-├── kept.py                # Main render loop and scene setup
-└── resources/             # OBJ models and texture data
